@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-**Belajar github di Dicoding Sangat Menyenangkan.**
+**Belajar github di Dicoding Sangat Menyenangkan**
